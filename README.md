@@ -10,3 +10,4 @@ The goal of this week is to get you comfortable with TS, and to show you how to 
 If you feel you're getting overwhelmed, you dont have to do the assignment. You can wait for the solution to be released, and then follow along with the solution.
 
 This weeks assigment is slightly hard, and I would urge you to use TAs support throughout the week.# To-Do-Typescript
+# To-Do-Typescript
